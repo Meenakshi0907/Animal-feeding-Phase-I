@@ -69,7 +69,6 @@ public class MoveForward : MonoBehaviour
 }
 ```
 ## Output:
-"C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2023-06-07 191940.png"
 
 ## Result:
 Thus, Animal feeding game-Phase-1 using unity is developed successfully.
